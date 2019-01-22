@@ -2,6 +2,8 @@ import React from 'react'
 import { push } from 'connected-react-router'
 import { bindActionCreators } from 'redux'
 import { connect } from 'react-redux'
+import { Button } from 'antd';
+
 import {
   increment,
   incrementAsync,
@@ -15,10 +17,10 @@ const Home = props => (
     <p>Count: {props.count}</p>
 
     <p>
-      <button onClick={props.increment}>Increment</button>
-      <button onClick={props.incrementAsync} disabled={props.isIncrementing}>
+      <Button type="primary" onClick={props.increment}>Increment</Button>
+      <Button type="danger" onClick={props.incrementAsync} disabled={props.isIncrementing}>
         Increment Async
-      </button>
+      </Button>
     </p>
 
     <p>
