@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240">
+  <g id="Group_3028" data-name="Group 3028" transform="translate(-496 -565)">
+    <g id="Rectangle_2045" data-name="Rectangle 2045" transform="translate(496 565)" fill="#f5f6fa" stroke="#ced0d9" stroke-width="1">
+      <rect width="240" height="240" rx="4" stroke="none"/>
+      <rect x="0.5" y="0.5" width="239" height="239" rx="3.5" fill="none"/>
+    </g>
+    <text id="DRAG_DROP" data-name="DRAG &amp; DROP" transform="translate(616 732.018)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial" opacity="0.5"><tspan x="-49.007" y="0">DRAG &amp; DROP</tspan></text>
+    <text id="your_files_or_browse" data-name="your files, or browse" transform="translate(616 748.568)" fill="#aaa" font-size="12" font-family="ArialMT, Arial"><tspan x="-55.351" y="0">your files, or</tspan><tspan y="0" fill="#43425d"> </tspan><tspan y="0" fill="#3b86ff" font-family="Arial-BoldMT, Arial" font-weight="700" text-decoration="underline">browse</tspan></text>
+    <g id="icon_upload" transform="translate(96 306)">
+      <g id="Ellipse_39" data-name="Ellipse 39" transform="translate(479 312)" fill="none" stroke="#dddfe7" stroke-width="1">
+        <circle cx="41.371" cy="41.371" r="41.371" stroke="none"/>
+        <circle cx="41.371" cy="41.371" r="40.871" fill="none"/>
+      </g>
+      <g id="Ellipse_40" data-name="Ellipse 40" transform="translate(484.786 317.786)" fill="none" stroke="#dddfe7" stroke-width="3">
+        <circle cx="35.585" cy="35.585" r="35.585" stroke="none"/>
+        <circle cx="35.585" cy="35.585" r="34.085" fill="none"/>
+      </g>
+      <circle id="Ellipse_41" data-name="Ellipse 41" cx="28.642" cy="28.642" r="28.642" transform="translate(491.73 324.73)" fill="#dddfe7"/>
+      <path id="Path_344" data-name="Path 344" d="M22.863,12.638,12.966.591a1.753,1.753,0,0,0-2.71,0L.36,12.638A1.754,1.754,0,0,0,1.715,15.51H6.692V31.15A1.747,1.747,0,0,0,8.445,32.9h6.333A1.747,1.747,0,0,0,16.53,31.15V15.51h4.978A1.754,1.754,0,0,0,22.863,12.638Z" transform="translate(508.554 337.162)" fill="#f0f2f8"/>
+    </g>
+  </g>
+</svg>
